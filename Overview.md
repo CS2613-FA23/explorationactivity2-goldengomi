@@ -23,6 +23,7 @@ React's primary prupose is to manage the view layer of an application by providi
 ### How do you use it?
 
 In order to use React, one should use a fast and modern development server tool called Vite.
+
 **Create a project using Vite:**
 1. Open a terminal and ```cd``` to your project folder's directory(must be an empty folder).
 2. Run ```npm create vite@latest```
@@ -34,7 +35,7 @@ In order to use React, one should use a fast and modern development server tool 
 
 **Begin modifying the React application:**[ref](https://www.w3schools.com/react/react_getstarted.asp)
 1. Look for a ```src``` folder in your project directory. You should find a ```App.jsx``` file. Open that file.
-2. Replace all the content inside the <div className="App"> with a <h1> element as below:
+2. Replace all the content inside the ```<div className="App">``` with a ```<h1>``` element as below:
 ```
 function App() {
   return (
