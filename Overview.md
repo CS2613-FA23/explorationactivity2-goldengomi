@@ -102,6 +102,7 @@ function Welcome(props) {
 }
 ```
 Output: 
+
 ![Sample output after using props for the Welcome component.](image-2.png)
 6. *Virtual DOM*(Document Object Model): JavaScript Frameworks update the whole DOM at once, which makes the web application slow. But react uses virtual DOM which is an exact copy of real DOM. Whenever there is a modification in the web application, the whole virtual DOM is updated first and finds the difference between real DOM and Virtual DOM. Once it finds the difference, then DOM updates only the part that has changed recently and everything remains the same. 
 7. *Performance*: DOM executes in memory so separate components can be created which makes the DOM run faster.
