@@ -16,7 +16,7 @@ To run the program, follow these steps:
 ```
 git clone {the url to the GitHub repo}
 ```
-4. Open the folder in Visual Studio Code. Make sure you ```cd``` into the cloned folder.
+4. Open the folder in Visual Studio Code. Make sure you ```cd``` into the cloned "Project" folder.
 5. ```npm install```
 6. ```npm start```
 7. The project webpage should open up.
